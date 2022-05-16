@@ -2,13 +2,13 @@
 
 One Paragraph of project description goes here.
 
-## Getting Started
+### Getting Started
 
 These instructions will [do something] on your local machine for [development/experimentation/demo].
 
 ### Prerequisites
 
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+[project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
 
 ```
 sudo apt update
