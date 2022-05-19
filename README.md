@@ -1,5 +1,5 @@
 ## Project Title
-
+First README.md
 One Paragraph of project description goes here.
 
 ### Getting Started
@@ -31,3 +31,4 @@ python cna_demo.py test.txt
 
 ## Thanks
 Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Thank you Faraday Acadamy https://www.youtube.com/watch?v=RGOj5yH7evk for helpful video.
