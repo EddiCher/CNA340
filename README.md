@@ -35,5 +35,4 @@ myfirst.py
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
 Thank you Faraday Acadamy https://www.youtube.com/watch?v=RGOj5yH7evk for helpful video.
