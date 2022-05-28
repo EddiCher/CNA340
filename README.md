@@ -31,7 +31,7 @@ myfirst.py
 Add any additional ways to run the program below
 
 ```
-python cna_demo.py test.txt
+myfirst.py
 ```
 
 ## Thanks
