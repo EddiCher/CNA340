@@ -1,14 +1,19 @@
-## Project Title
-First README.md
-One Paragraph of project description goes here.
+## Project Title: Network conectivity.
 
+### Discription
+
+###
+
+```
+ping is a basic Internet program that allows a user to test and verify if a particular destination IP address.
+```
 ### Getting Started
 
-These instructions will [do something] on your local machine for [development/experimentation/demo].
+These instructions will check the connection between local machine to remot server.
 
 ### Prerequisites
 
-[project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
+No need software version to run.
 
 ```
 sudo apt update
@@ -20,7 +25,7 @@ sudo apt install package1 package2
 Once installed you can run the program with the following command
 
 ```
-python cna_demo.py
+myfirst.py
 ```
 
 Add any additional ways to run the program below
