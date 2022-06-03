@@ -1,6 +1,6 @@
 ## Project Title: Network conectivity.
 
-### Discription
+### Discription: 
 
 ###
 
@@ -8,7 +8,7 @@
 ping is a basic Internet program that allows a user to test and verify if a particular destination IP address.
 ```
 ### Getting Started
-
+running the cod on paycharm 
 These instructions will check the connection between local machine to remot server.
 
 ### Prerequisites
